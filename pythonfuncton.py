@@ -8,4 +8,4 @@ sum_value = num1 + num2
 
 print("thinking...")
 
-print(f"The sum of {num1} and {num2} is {sum_value}.")\
+print(f"The sum of {num1} and {num2} is {sum_value}.")
